@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>img/1.png</file>
+        <file>img/button.jpg</file>
+        <file>img/button2.jpg</file>
+        <file>img/handsome.jpg</file>
+        <file>img/hust.jpg</file>
+        <file>img/kenan.jpg</file>
+        <file>img/kenan2.jpg</file>
+        <file>img/max.jpg</file>
+        <file>img/qt.png</file>
+        <file>img/smile.ico</file>
+        <file>img/Toolbar.bmp</file>
+        <file>img/wechat.jpg</file>
+        <file>img/马晓.jpg</file>
+    </qresource>
+</RCC>
